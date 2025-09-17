@@ -1,0 +1,11 @@
+{
+    "classification_accuracy": 1.0,
+    "classification_confusion_matrix": [
+        [
+            14034
+        ]
+    ],
+    "regression_r2": 0.9571500766678404,
+    "regression_mae": 136.3762776115149,
+    "clustering_silhouette": 0.17732445180314932
+}
